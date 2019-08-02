@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [SpinaJS documentation](README.md)
 
 ## Fundamentals
 
